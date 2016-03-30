@@ -32,7 +32,7 @@ if (!defined('APPPATH'))
                 {content}
             </div>
             <div id="footer" class="span12">
-                Copyright &copy; 2016, Me. {sessionid}
+                Copyright &copy; 2016, Me.
             </div>
         </div>
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
